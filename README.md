@@ -89,7 +89,7 @@
 
 	<h1>La Contaminación del Agua</h1>
 
-	<p>Tal vez todos sabemos que es la contaminación del agua, pero lo que no sabemos, es porqué es importante evitar esta forma de contaminación</p>
+	<p>Tal vez todos sabemos que es la contaminación del agua, pero lo que no sabemos, es porqué es importante evitar esta forma de contaminación.</p>
 
 	<h2>¿Por qué es importante evitar la contaminación del agua?</h2>
 
